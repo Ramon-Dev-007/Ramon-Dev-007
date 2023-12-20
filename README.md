@@ -1,10 +1,10 @@
 ### Olá! eu sou o Ramon dos Santos 🖐
 
-[![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ssilvaramon2022@gmail.com)
+
 [![Contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-santos-front-end-macei%C3%B3-al/)
 [![Sociais](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stories/ramon_kluivert/)
 
-![Ramon GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramon-Dev-007&show_icons=true&theme=dracula)
+![Ramon GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramon-Dev-007&show_icons=true&theme=dracula)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-Dev-007&layout=compact)
 
 ## Tecnologias de estudos.
