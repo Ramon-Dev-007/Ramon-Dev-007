@@ -5,7 +5,7 @@
 [![Sociais](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stories/ramon_kluivert/)
 
 ![Ramon GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramon-Dev-007&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-Dev-007&layout=compact)
 
 ## Tecnologias de estudos.
 
@@ -18,5 +18,5 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-## Plataforma de Estudos:
+## Plataforma de Estudos: DevMedia
 -[carreira Front-end](https://www.devmedia.com.br/perfil/ramon-santos-silva)
